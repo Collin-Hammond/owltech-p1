@@ -20,7 +20,7 @@ make
 ```
 ## Game
 Commands
-from to - move a piece
-save name - save the current game
-load name - load a saved game
-quit - exit the game
+- from to - move a piece
+- save name - save the current game
+- load name - load a saved game
+- quit - exit the game
